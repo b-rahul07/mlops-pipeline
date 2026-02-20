@@ -1,0 +1,8 @@
+2026-02-20 16:26:38,616 — INFO — Job started
+2026-02-20 16:26:38,623 — INFO — Configuration loaded: seed=42, window=5, version=v1
+2026-02-20 16:26:38,693 — INFO — Data loaded: 10000 rows from data.csv
+2026-02-20 16:26:38,693 — INFO — Data chronologically sorted by timestamp
+2026-02-20 16:26:38,699 — INFO — Rolling mean computed with window=5
+2026-02-20 16:26:38,702 — INFO — Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 16:26:38,709 — INFO — Metrics written to metrics.json
+2026-02-20 16:26:38,710 — INFO — Job completed successfully in 107 ms
