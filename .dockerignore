@@ -1,0 +1,15 @@
+.git
+.gsd
+.agent
+.gemini
+adapters
+docs
+scripts
+__pycache__
+*.pyc
+GSD-STYLE.md
+PROJECT_RULES.md
+model_capabilities.yaml
+.dockerignore
+.gitignore
+generate_mock_data.py
